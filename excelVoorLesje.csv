@@ -1,188 +1,188 @@
 Rank;Rating;Title;Year;votes;seen
-1;9,2;The Shawshank Redemption ;1994;1071904;1
-2;9,2;The Godfather ;1972;751381;0
+1;92;The Shawshank Redemption ;1994;1071904;1
+2;92;The Godfather ;1972;751381;0
 3;9;The Godfather: Part II ;1974;488889;0
-4;8,9;Pulp Fiction ;1994;830504;1
-5;8,9;The Good, the Bad and the Ugly ;1966;322961;0
-6;8,9;The Dark Knight ;2008;1045186;1
-7;8,9;12 Angry Men ;1957;264112;0
-8;8,9;Schindler's List ;1993;545703;1
-9;8,8;The Lord of the Rings: The Return of the King ;2003;758388;0
-10;8,8;Fight Club ;1999;814389;0
-11;8,8;Star Wars: Episode V - The Empire Strikes Back ;1980;519895;0
-12;8,8;The Lord of the Rings: The Fellowship of the Ring ;2001;784999;0
-13;8,7;One Flew Over the Cuckoo's Nest ;1975;447005;0
-14;8,7;Goodfellas ;1990;465445;0
-15;8,7;Seven Samurai ;1954;161969;0
-16;8,7;Inception ;2010;844938;1
-17;8,7;Star Wars ;1977;585132;0
-18;8,7;Forrest Gump ;1994;711386;1
-19;8,7;The Matrix ;1999;770559;1
-20;8,7;The Lord of the Rings: The Two Towers ;2002;680983;0
-21;8,6;City of God ;2002;349902;0
-22;8,6;The Silence of the Lambs ;1991;527492;0
-23;8,6;Se7en ;1995;625620;0
-24;8,6;Once Upon a Time in the West ;1968;145769;0
-25;8,6;Casablanca ;1942;278743;0
-26;8,6;The Usual Suspects ;1995;481594;0
-27;8,6;Raiders of the Lost Ark ;1981;439557;0
-28;8,6;Rear Window ;1954;213122;0
-29;8,6;It's a Wonderful Life ;1946;180212;0
-30;8,6;Psycho ;1960;272065;0
-31;8,6;Léon: The Professional ;1994;454516;0
-32;8,5;Sunset Blvd. ;1950;95571;0
-33;8,5;American History X ;1998;495932;0
-34;8,5;Apocalypse Now ;1979;309699;0
-35;8,5;Terminator 2: Judgment Day ;1991;479572;0
-36;8,5;Memento ;2000;557394;0
-37;8,5;Saving Private Ryan ;1998;546922;1
-38;8,5;City Lights ;1931;62840;0
-39;8,5;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ;1964;249013;0
-40;8,5;Alien ;1979;360007;0
-41;8,5;Modern Times ;1936;80077;0
-42;8,5;Spirited Away ;2001;244430;1
-43;8,5;Gravity ;2013;33721;0
-44;8,5;North by Northwest ;1959;155574;0
-45;8,5;Back to the Future ;1985;433401;1
-46;8,4;Citizen Kane ;1941;216576;0
-47;8,4;The Pianist ;2002;297265;1
-48;8,4;M ;1931;68920;0
-49;8,4;Life Is Beautiful ;1997;237603;0
-50;8,4;The Shining ;1980;380225;0
-51;8,4;The Departed ;2006;540726;0
-52;8,4;Paths of Glory ;1957;78867;0
-53;8,4;Vertigo ;1958;162865;0
-54;8,4;American Beauty ;1999;555796;0
-55;8,4;Django Unchained ;2012;450505;1
-56;8,4;Double Indemnity ;1944;66255;0
-57;8,4;Taxi Driver ;1976;321465;0
-58;8,4;The Dark Knight Rises ;2012;672751;1
-59;8,4;Aliens ;1986;325439;0
-60;8,4;The Green Mile ;1999;447680;1
-61;8,4;The Intouchables ;2011;223271;1
-62;8,4;Gladiator ;2000;598332;0
-63;8,4;WALL·E ;2008;430863;1
-64;8,4;The Lives of Others ;2006;168022;0
-65;8,4;Toy Story 3 ;2010;320991;1
-66;8,4;The Great Dictator ;1940;78329;0
-67;8,4;A Clockwork Orange ;1971;356779;0
-68;8,4;The Prestige ;2006;497983;0
-69;8,4;Amélie ;2001;351134;1
-70;8,4;Lawrence of Arabia ;1962;130531;0
-71;8,4;To Kill a Mockingbird ;1962;143215;0
-72;8,4;Reservoir Dogs ;1992;416840;0
-73;8,4;Das Boot ;1981;118641;0
-74;8,3;Cinema Paradiso ;1988;93024;0
-75;8,3;The Lion King ;1994;361740;1
-76;8,3;The Treasure of the Sierra Madre ;1948;55469;0
-77;8,3;The Third Man ;1949;81076;0
-78;8,3;Once Upon a Time in America ;1984;146293;0
-79;8,3;Requiem for a Dream ;2000;378814;0
-80;8,3;Star Wars: Episode VI - Return of the Jedi ;1983;410111;0
-81;8,3;Eternal Sunshine of the Spotless Mind ;2004;437665;1
-82;8,3;Full Metal Jacket ;1987;305714;0
-83;8,3;Braveheart ;1995;480170;0
-84;8,3;L.A. Confidential ;1997;296956;0
-85;8,3;Oldboy ;2003;217584;0
-86;8,3;Singin' in the Rain ;1952;99981;0
-87;8,3;Metropolis ;1927;74994;0
-88;8,3;Chinatown ;1974;147914;0
-89;8,3;Rashomon ;1950;69011;0
-90;8,3;Some Like It Hot ;1959;120126;0
-91;8,3;Bicycle Thieves ;1948;57490;0
-92;8,3;All About Eve ;1950;57417;0
-93;8,3;Monty Python and the Holy Grail ;1975;265075;0
-94;8,3;Princess Mononoke ;1997;135618;0
-95;8,3;Amadeus ;1984;183169;0
-96;8,3;2001: A Space Odyssey ;1968;275055;0
-97;8,3;Witness for the Prosecution ;1957;36241;0
-98;8,3;The Apartment ;1960;70921;0
-99;8,3;The Sting ;1973;117819;0
-100;8,3;Unforgiven ;1992;190549;0
-101;8,3;Grave of the Fireflies ;1988;75713;0
-102;8,3;Indiana Jones and the Last Crusade ;1989;336055;0
-103;8,3;Raging Bull ;1980;160636;0
-104;8,3;The Bridge on the River Kwai ;1957;102421;0
-105;8,3;Die Hard ;1988;395178;1
-106;8,3;Yojimbo ;1961;49855;0
-107;8,3;Batman Begins ;2005;604923;0
-108;8,3;A Separation ;2011;93088;0
-109;8,2;Inglourious Basterds ;2009;505702;1
-110;8,2;For a Few Dollars More ;1965;94509;0
-111;8,2;Mr. Smith Goes to Washington ;1939;54505;0
-112;8,2;Snatch. ;2000;392241;0
-113;8,2;Toy Story ;1995;369869;1
-114;8,2;On the Waterfront ;1954;68966;0
-115;8,2;The Great Escape ;1963;110551;0
-116;8,2;Downfall ;2004;168689;0
-117;8,2;Pan's Labyrinth ;2006;313115;1
-118;8,2;Up ;2009;377485;1
-119;8,2;The General ;1926;34819;0
-120;8,2;The Seventh Seal ;1957;74369;0
-121;8,2;Heat ;1995;297114;0
-122;8,2;The Elephant Man ;1980;111071;0
-123;8,2;The Maltese Falcon ;1941;81135;0
-124;8,2;The Kid ;1921;35316;0
-125;8,2;Blade Runner ;1982;326683;1
-126;8,2;Wild Strawberries ;1957;41744;0
-127;8,2;Rebecca ;1940;61069;0
-128;8,2;Scarface ;1983;344351;0
-129;8,2;Ikiru ;1952;27215;0
-130;8,2;Ran ;1985;55197;0
-131;8,2;Fargo ;1996;285542;0
-132;8,2;Gran Torino ;2008;367352;0
-133;8,2;Touch of Evil ;1958;52508;0
-134;8,2;The Big Lebowski ;1998;348568;0
-135;8,2;The Gold Rush ;1925;41458;0
-136;8,2;The Deer Hunter ;1978;161747;0
-137;8,2;Cool Hand Luke ;1967;84470;0
-138;8,1;It Happened One Night ;1934;43205;0
-139;8,1;Diabolique ;1955;26777;0
-140;8,1;No Country for Old Men ;2007;397628;0
-141;8,1;The Sixth Sense ;1999;475862;1
-142;8,1;Lock, Stock and Two Smoking Barrels ;1998;277636;0
-143;8,1;Jaws ;1975;267827;0
-144;8,1;Good Will Hunting ;1997;366430;0
-145;8,1;Strangers on a Train ;1951;64124;0
-146;8,1;Casino ;1995;216669;0
-147;8,1;Judgment at Nuremberg ;1961;25742;0
-148;8,1;The Grapes of Wrath ;1940;42227;0
-149;8,1;The Wizard of Oz ;1939;192425;0
-150;8,1;Platoon ;1986;202044;0
-151;8,1;Sin City ;2005;459794;0
-152;8,1;Butch Cassidy and the Sundance Kid ;1969;102995;0
-153;8,1;Kill Bill: Vol. 1 ;2003;470244;0
-154;8,1;The Thing ;1982;175041;0
-155;8,1;Trainspotting ;1996;312510;0
-156;8,1;Gone with the Wind ;1939;148410;0
-157;8,1;High Noon ;1952;56791;0
-158;8,1;Annie Hall ;1977;127072;0
-159;8,1;Hotel Rwanda ;2004;180270;0
-160;8,1;The Hunt ;2012;39033;0
-161;8,1;Warrior ;2011;190877;0
-162;8,1;The Secret in Their Eyes ;2009;73505;0
-163;8,1;Finding Nemo ;2003;406678;1
-164;8,1;My Neighbor Totoro ;1988;88095;0
-165;8,1;V for Vendetta ;2005;507750;1
-166;8,1;Notorious ;1946;52582;0
-167;8,1;Dial M for Murder ;1954;65745;0
-168;8,1;The Avengers ;2012;568037;1
-169;8,1;How to Train Your Dragon ;2010;249971;0
-170;8,1;Life of Brian ;1979;183277;0
-171;8,1;Into the Wild ;2007;263344;1
-172;8,1;The Best Years of Our Lives ;1946;27843;0
-173;8,1;Network ;1976;69929;0
-174;8,1;The Terminator ;1984;378300;0
-175;8,1;Million Dollar Baby ;2004;303571;0
-176;8,1;There Will Be Blood ;2007;252241;0
-177;8,1;Ben-Hur ;1959;106455;0
-178;8,1;The Night of the Hunter ;1955;44437;0
-179;8,1;The Big Sleep ;1946;47119;0
-180;8,1;The King's Speech ;2010;288159;1
-181;8,1;Stand by Me ;1986;182230;0
-182;8,1;The 400 Blows ;1959;46028;0
-183;8,1;Twelve Monkeys ;1995;316945;0
-184;8,1;Groundhog Day ;1993;282250;0
+4;89;Pulp Fiction ;1994;830504;1
+5;89;The Good, the Bad and the Ugly ;1966;322961;0
+6;89;The Dark Knight ;2008;1045186;1
+7;89;12 Angry Men ;1957;264112;0
+8;89;Schindler's List ;1993;545703;1
+9;88;The Lord of the Rings: The Return of the King ;2003;758388;0
+10;88;Fight Club ;1999;814389;0
+11;88;Star Wars: Episode V - The Empire Strikes Back ;1980;519895;0
+12;88;The Lord of the Rings: The Fellowship of the Ring ;2001;784999;0
+13;87;One Flew Over the Cuckoo's Nest ;1975;447005;0
+14;87;Goodfellas ;1990;465445;0
+15;87;Seven Samurai ;1954;161969;0
+16;87;Inception ;2010;844938;1
+17;87;Star Wars ;1977;585132;0
+18;87;Forrest Gump ;1994;711386;1
+19;87;The Matrix ;1999;770559;1
+20;87;The Lord of the Rings: The Two Towers ;2002;680983;0
+21;86;City of God ;2002;349902;0
+22;86;The Silence of the Lambs ;1991;527492;0
+23;86;Se7en ;1995;625620;0
+24;86;Once Upon a Time in the West ;1968;145769;0
+25;86;Casablanca ;1942;278743;0
+26;86;The Usual Suspects ;1995;481594;0
+27;86;Raiders of the Lost Ark ;1981;439557;0
+28;86;Rear Window ;1954;213122;0
+29;86;It's a Wonderful Life ;1946;180212;0
+30;86;Psycho ;1960;272065;0
+31;86;LÃ©on: The Professional ;1994;454516;0
+32;85;Sunset Blvd. ;1950;95571;0
+33;85;American History X ;1998;495932;0
+34;85;Apocalypse Now ;1979;309699;0
+35;85;Terminator 2: Judgment Day ;1991;479572;0
+36;85;Memento ;2000;557394;0
+37;85;Saving Private Ryan ;1998;546922;1
+38;85;City Lights ;1931;62840;0
+39;85;Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ;1964;249013;0
+40;85;Alien ;1979;360007;0
+41;85;Modern Times ;1936;80077;0
+42;85;Spirited Away ;2001;244430;1
+43;85;Gravity ;2013;33721;0
+44;85;North by Northwest ;1959;155574;0
+45;85;Back to the Future ;1985;433401;1
+46;84;Citizen Kane ;1941;216576;0
+47;84;The Pianist ;2002;297265;1
+48;84;M ;1931;68920;0
+49;84;Life Is Beautiful ;1997;237603;0
+50;84;The Shining ;1980;380225;0
+51;84;The Departed ;2006;540726;0
+52;84;Paths of Glory ;1957;78867;0
+53;84;Vertigo ;1958;162865;0
+54;84;American Beauty ;1999;555796;0
+55;84;Django Unchained ;2012;450505;1
+56;84;Double Indemnity ;1944;66255;0
+57;84;Taxi Driver ;1976;321465;0
+58;84;The Dark Knight Rises ;2012;672751;1
+59;84;Aliens ;1986;325439;0
+60;84;The Green Mile ;1999;447680;1
+61;84;The Intouchables ;2011;223271;1
+62;84;Gladiator ;2000;598332;0
+63;84;WALLÂ·E ;2008;430863;1
+64;84;The Lives of Others ;2006;168022;0
+65;84;Toy Story 3 ;2010;320991;1
+66;84;The Great Dictator ;1940;78329;0
+67;84;A Clockwork Orange ;1971;356779;0
+68;84;The Prestige ;2006;497983;0
+69;84;AmÃ©lie ;2001;351134;1
+70;84;Lawrence of Arabia ;1962;130531;0
+71;84;To Kill a Mockingbird ;1962;143215;0
+72;84;Reservoir Dogs ;1992;416840;0
+73;84;Das Boot ;1981;118641;0
+74;83;Cinema Paradiso ;1988;93024;0
+75;83;The Lion King ;1994;361740;1
+76;83;The Treasure of the Sierra Madre ;1948;55469;0
+77;83;The Third Man ;1949;81076;0
+78;83;Once Upon a Time in America ;1984;146293;0
+79;83;Requiem for a Dream ;2000;378814;0
+80;83;Star Wars: Episode VI - Return of the Jedi ;1983;410111;0
+81;83;Eternal Sunshine of the Spotless Mind ;2004;437665;1
+82;83;Full Metal Jacket ;1987;305714;0
+83;83;Braveheart ;1995;480170;0
+84;83;L.A. Confidential ;1997;296956;0
+85;83;Oldboy ;2003;217584;0
+86;83;Singin' in the Rain ;1952;99981;0
+87;83;Metropolis ;1927;74994;0
+88;83;Chinatown ;1974;147914;0
+89;83;Rashomon ;1950;69011;0
+90;83;Some Like It Hot ;1959;120126;0
+91;83;Bicycle Thieves ;1948;57490;0
+92;83;All About Eve ;1950;57417;0
+93;83;Monty Python and the Holy Grail ;1975;265075;0
+94;83;Princess Mononoke ;1997;135618;0
+95;83;Amadeus ;1984;183169;0
+96;83;2001: A Space Odyssey ;1968;275055;0
+97;83;Witness for the Prosecution ;1957;36241;0
+98;83;The Apartment ;1960;70921;0
+99;83;The Sting ;1973;117819;0
+100;83;Unforgiven ;1992;190549;0
+101;83;Grave of the Fireflies ;1988;75713;0
+102;83;Indiana Jones and the Last Crusade ;1989;336055;0
+103;83;Raging Bull ;1980;160636;0
+104;83;The Bridge on the River Kwai ;1957;102421;0
+105;83;Die Hard ;1988;395178;1
+106;83;Yojimbo ;1961;49855;0
+107;83;Batman Begins ;2005;604923;0
+108;83;A Separation ;2011;93088;0
+109;82;Inglourious Basterds ;2009;505702;1
+110;82;For a Few Dollars More ;1965;94509;0
+111;82;Mr. Smith Goes to Washington ;1939;54505;0
+112;82;Snatch. ;2000;392241;0
+113;82;Toy Story ;1995;369869;1
+114;82;On the Waterfront ;1954;68966;0
+115;82;The Great Escape ;1963;110551;0
+116;82;Downfall ;2004;168689;0
+117;82;Pan's Labyrinth ;2006;313115;1
+118;82;Up ;2009;377485;1
+119;82;The General ;1926;34819;0
+120;82;The Seventh Seal ;1957;74369;0
+121;82;Heat ;1995;297114;0
+122;82;The Elephant Man ;1980;111071;0
+123;82;The Maltese Falcon ;1941;81135;0
+124;82;The Kid ;1921;35316;0
+125;82;Blade Runner ;1982;326683;1
+126;82;Wild Strawberries ;1957;41744;0
+127;82;Rebecca ;1940;61069;0
+128;82;Scarface ;1983;344351;0
+129;82;Ikiru ;1952;27215;0
+130;82;Ran ;1985;55197;0
+131;82;Fargo ;1996;285542;0
+132;82;Gran Torino ;2008;367352;0
+133;82;Touch of Evil ;1958;52508;0
+134;82;The Big Lebowski ;1998;348568;0
+135;82;The Gold Rush ;1925;41458;0
+136;82;The Deer Hunter ;1978;161747;0
+137;82;Cool Hand Luke ;1967;84470;0
+138;81;It Happened One Night ;1934;43205;0
+139;81;Diabolique ;1955;26777;0
+140;81;No Country for Old Men ;2007;397628;0
+141;81;The Sixth Sense ;1999;475862;1
+142;81;Lock, Stock and Two Smoking Barrels ;1998;277636;0
+143;81;Jaws ;1975;267827;0
+144;81;Good Will Hunting ;1997;366430;0
+145;81;Strangers on a Train ;1951;64124;0
+146;81;Casino ;1995;216669;0
+147;81;Judgment at Nuremberg ;1961;25742;0
+148;81;The Grapes of Wrath ;1940;42227;0
+149;81;The Wizard of Oz ;1939;192425;0
+150;81;Platoon ;1986;202044;0
+151;81;Sin City ;2005;459794;0
+152;81;Butch Cassidy and the Sundance Kid ;1969;102995;0
+153;81;Kill Bill: Vol. 1 ;2003;470244;0
+154;81;The Thing ;1982;175041;0
+155;81;Trainspotting ;1996;312510;0
+156;81;Gone with the Wind ;1939;148410;0
+157;81;High Noon ;1952;56791;0
+158;81;Annie Hall ;1977;127072;0
+159;81;Hotel Rwanda ;2004;180270;0
+160;81;The Hunt ;2012;39033;0
+161;81;Warrior ;2011;190877;0
+162;81;The Secret in Their Eyes ;2009;73505;0
+163;81;Finding Nemo ;2003;406678;1
+164;81;My Neighbor Totoro ;1988;88095;0
+165;81;V for Vendetta ;2005;507750;1
+166;81;Notorious ;1946;52582;0
+167;81;Dial M for Murder ;1954;65745;0
+168;81;The Avengers ;2012;568037;1
+169;81;How to Train Your Dragon ;2010;249971;0
+170;81;Life of Brian ;1979;183277;0
+171;81;Into the Wild ;2007;263344;1
+172;81;The Best Years of Our Lives ;1946;27843;0
+173;81;Network ;1976;69929;0
+174;81;The Terminator ;1984;378300;0
+175;81;Million Dollar Baby ;2004;303571;0
+176;81;There Will Be Blood ;2007;252241;0
+177;81;Ben-Hur ;1959;106455;0
+178;81;The Night of the Hunter ;1955;44437;0
+179;81;The Big Sleep ;1946;47119;0
+180;81;The King's Speech ;2010;288159;1
+181;81;Stand by Me ;1986;182230;0
+182;81;The 400 Blows ;1959;46028;0
+183;81;Twelve Monkeys ;1995;316945;0
+184;81;Groundhog Day ;1993;282250;0
 185;8;Donnie Darko ;2001;398128;0
 186;8;Dog Day Afternoon ;1975;126624;0
 187;8;Amores Perros ;2000;120868;0
@@ -202,7 +202,7 @@ Rank;Rating;Title;Year;votes;seen
 201;8;The Man Who Shot Liberty Valance ;1962;39917;0
 202;8;La Strada ;1954;32409;0
 203;8;Anatomy of a Murder ;1959;32242;0
-204;8;8½ ;1963;54451;1
+204;8;8Â½ ;1963;54451;1
 205;8;The Manchurian Candidate ;1962;53501;0
 206;8;Rocky ;1976;220323;1
 207;8;The Exorcist ;1973;213984;0
@@ -240,12 +240,12 @@ Rank;Rating;Title;Year;votes;seen
 239;8;La Haine ;1995;63865;0
 240;8;3 Idiots ;2009;83178;0
 241;8;The Artist ;2011;132672;1
-242;8;Nausicaä of the Valley of the Wind ;1984;53307;0
-243;7,9;Beauty and the Beast ;1991;189229;1
-244;7,9;Three Colors: Red ;1994;43438;0
-245;7,9;Bringing Up Baby ;1938;35695;0
-246;7,9;Mystic River ;2003;256159;0
-247;7,9;In the Heat of the Night ;1967;37081;0
-248;7,9;Arsenic and Old Lace ;1944;45893;0
-249;7,9;Before Sunrise ;1995;100974;0
-250;7,9;Papillon ;1973;62517;0
+242;8;NausicaÃ¤ of the Valley of the Wind ;1984;53307;0
+243;79;Beauty and the Beast ;1991;189229;1
+244;79;Three Colors: Red ;1994;43438;0
+245;79;Bringing Up Baby ;1938;35695;0
+246;79;Mystic River ;2003;256159;0
+247;79;In the Heat of the Night ;1967;37081;0
+248;79;Arsenic and Old Lace ;1944;45893;0
+249;79;Before Sunrise ;1995;100974;0
+250;79;Papillon ;1973;62517;0
